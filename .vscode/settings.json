@@ -1,0 +1,9 @@
+{
+    "window.density.editorTabHeight": "default",
+    "workbench.activityBar.location": "top",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.settings.editor": "ui",
+    "workbench.settings.openDefaultSettings": false,
+    "window.autoDetectColorScheme": false,
+    "window.closeWhenEmpty": false
+}
